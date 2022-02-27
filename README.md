@@ -1,5 +1,14 @@
 # 【中国VPN排行】最好用的VPN推荐与测评(2022年)
 
+|  国内梯子排行   | 热门指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=bestcnvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=bestcnvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=bestcnvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=bestcnvpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=bestcnvpn) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=bestcnvpn) | - | - |
+
 ![VPN推荐](http://5b0988e595225.cdn.sohucs.com/images/20170915/6d2c410ff0064ba8b125558e5b0b1e87.jpeg)
 
 本文根据我的翻墙经验，推荐几款快速好用的VPN。经过我的测评，这些VPN在中国都能稳定使用，并且兼容手机和电脑。虽然应用商店里面有成百上千的VPN，国内也有个人搭建的机场梯子，但是能用的VPN确实寥寥无几。
