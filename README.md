@@ -1,6 +1,6 @@
 # 【中国VPN排行】最好用的VPN推荐与测评(2022年)
 
-![VPN推荐](https://qiangup.com/wp-content/uploads/2022/02/the-best-vpn-for-china.jpg)
+![VPN推荐](http://5b0988e595225.cdn.sohucs.com/images/20170915/6d2c410ff0064ba8b125558e5b0b1e87.jpeg)
 
 本文根据我的翻墙经验，推荐几款快速好用的VPN。经过我的测评，这些VPN在中国都能稳定使用，并且兼容手机和电脑。虽然应用商店里面有成百上千的VPN，国内也有个人搭建的机场梯子，但是能用的VPN确实寥寥无几。
 
