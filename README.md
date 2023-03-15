@@ -1,11 +1,10 @@
-# 【国内梯子排行】最好用的VPN梯子推荐与科学上网测评(2022年)
+# 【国内梯子排行】最好用的VPN梯子推荐与科学上网测评(2023年)
 
 |  国内梯子排行   | 热门指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=bestcnvpn) |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=bestcnvpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=bestcnvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=bestcnvpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=bestcnvpn) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) |
 | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) |
 | Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=bestcnvpn) | - | - |
 
@@ -70,7 +69,7 @@ PureVPN还提供上海、北京等中国内地的IP节点，因此也是海外�
 
 除此之外，还能用于解锁流媒体、种子下载、隐藏真实IP地址等。以下是关于每款VPN的稳定性、客户端软件、服务器节点、性价比和安全性的详细测评，以及如何下载、安装、购买注册和使用的教程。
 
-### 1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn) —— 速度最快的VPN中国首选
+### 1.[ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) —— 速度最快的VPN中国首选
 
 ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内，平时大部分时间也是使用它。稳定性是它最大的优势，经历过与防火长城十多年的攻防斗争依然坚挺好用，这要得益于它的Lightway协议。
 
@@ -92,7 +91,7 @@ ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内�
 
 使用本文提供的ExpressVPN优惠链接访问ExpressVPN官网，可以将价格降至$6.67/每月。利用好ExpressVPN的30天退款保证，如果不满意，可以联系他们的24/7客服退款，即便没有免费试用也不会造成损失。
 
-[获取ExpressVPN优惠](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn)
+[获取ExpressVPN优惠](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn)
 
 #### ExpressVPN使用指南
 
