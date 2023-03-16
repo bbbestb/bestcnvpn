@@ -22,7 +22,7 @@
 
 如果你身在海外想访问中国大陆网站获得中国VPN服务器，请跳转到有关[翻墙回国](/into-china/)的内容。如果你不想读完整篇文章，可以参考以下我们推荐的好用的中国VPN排行，文后还有更详细的VPN测评：
 
-### 1\. [ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn) —— 速度最快的VPN中国首选
+### 1\. [ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) —— 速度最快的VPN中国首选
 
 ![expressvpn logo](https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png)
 
@@ -32,25 +32,6 @@
 
 * * *
 
-### 2\. [Panda VPN](https://www.pantoto.xyz/r/22216799) —— 为翻墙而生的VPN
-
-![pandavpn logo](https://qiangup.com/wp-content/uploads/2021/12/pandavpn-logo.png)
-
-Panda VPN算是一个特例，它是为翻墙而生的VPN，是在VPN推荐中无法忽视的一员。使用类似SSR、V2Ray等机场常用的代理协议，使得启动连接的速度更快。并且它同时有具有VPN的隐私安全性，在连接成功之后的稳定性也更高。  
-  
-虽然开发团队都是华人，但是他们公司都在国外，这也是它身为中国VPN却如此坚挺的原因。其客户端VPN软件简单易用，服务器节点大多在中国大陆附近，供游戏使用的香港、日本低延迟VPN节点也很好用，还有解锁Netflix、Disney+、BBC iPlayer、Hulu、Amazon Prime Video等流媒体的英国、美国IP节点。
-
-* * *
-
-### 3\. [PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=bestcnvpn) —— 便宜性价比高的VPN
-
-![purevpn logo](https://qiangup.com/wp-content/uploads/2021/12/purevpn-logo.png)
-
-早年间PureVPN公司注册在香港，所以对中国大陆用户相当重视，也非常熟悉中国用户的需求，官网的中文支持也非常友好。由于顾及用户隐私的原因已经迁出香港，但依然没有忘记中国市场。  
-  
-PureVPN还提供上海、北京等中国内地的IP节点，因此也是海外华人和留学生翻墙回国的VPN选择。它的应用程序简单好用，尤其在PC电脑电脑上连接速度快，推荐的VPN节点有台湾、香港等低延迟节点，可以用来玩一些国外游戏。
-
-* * *
 
 ## 好用的VPN推荐标准
 
@@ -110,41 +91,6 @@ ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内�
 
 * * *
 
-### 2.[Panda VPN](https://www.pantoto.xyz/r/22216799) —— 为翻墙而生的VPN
-
-Panda VPN是由华人运营的专为中国VPN定制的软件，因此也被很多人称做熊猫VPN，由于团队都在国外，因此也更加保险。经过这几年的打磨，Panda VPN已经在翻墙市场站稳了脚跟，在中国VPN排行榜中占据了自己的一席之地。
-
-![pandavpn官网](https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage.jpg)
-
-更贴合中国用户需求是他的最大优势，因此自然少不了香港、马来西亚、台湾、新加坡、日本、美国等服务器节点，其中香港IP节点占比相当高。流媒体专用节点可以解锁Netflix、Hulu、HBO、Viaplay、VIU、AbemaTV、Disney+。
-
-超快的IPLC专线使得播放1080P画质没有任何问题，可以流畅访问视频、音乐、社交媒体。另外还提供了种子下载、游戏等好用的VPN节点，推荐VPN特殊需求的用户使用。而备用节点，可以在中国VPN封锁严重的特殊时期发挥作用。
-
-Panda VPN支持的设备不算多，但基本覆盖了电脑VPN和手机端APP，提供Windows、Mac、Android、Linux、Android TV应用程序。客户端软件界面设计也非常有特色，操作简单方便，即便是新手也能快速上手。  
-  
-在加上Panda VPN官网和APP全中文支持，因此在使用过程中几乎不会遇到任何问题。智能模式，全局模式和全局代理可以实现浏览器和全局翻墙，还能自定义配置分流国内外网站。
-
-![pandavpn价格](https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price.jpg)
-
-随着Panda VPN名气逐渐提升，在加上美元兑换人名币汇率走低，Panda VPN价格也从$1.99涨到了目前的价格。这样从侧面说明了一个实时，Panda VPN确实好用且值得推荐，而且不是用超低的优惠价格忽悠中国用户。
-
-客服方面有待提升，目前只有8小时在线客服和邮件支持。退款期限也不算高，可能还是考虑到很多用户薅羊毛，仅支持7天退款保证。当然，在7天内你完全可以充分试用VPN的好坏。
-
-[获取Panda VPN优惠](https://www.pantoto.xyz/r/22216799)
-
-#### Panda VPN使用指南
-
-如果你在使用过程中遇到Panda VPN连不上的问题，可以尝试以下方法解决。
-
-*   1.电脑端Panda VPN安装后连不上很可能是其他VPN或者浏览器代理软件冲突造成的，关掉或者卸载即可。
-*   2.特殊时期连不上可以使用备用VPN节点。
-*   3.香港节点连接慢可能是用的人太多，这时使用美国节点速度反而更快。
-
-#### Panda VPN安全吗？
-
-由于不在中国大陆境内，因此至少你的数据安全是能够得到保障的，也没有喝茶跑路的风险。PandaVPN也实行无日志策略，因此不会记录用户的浏览数据。
-
-安全的ECC加密技术可以保护连接的数据安全，防止运营商和黑客破解数据，在连接公共WiFi的时候也更加安全。代理、OpenVPN等多种协议，可以满足你不同的隐私安全需求。虚拟IP可以隐藏你的真实IP地址，避免被查水表。
 
 * * *
 
