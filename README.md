@@ -2,7 +2,7 @@
 
 #[⭐⭐⭐⭐⭐点击查看最新推荐的VPN梯子](https://cntizi1.com/)
 
-
+![推荐梯子](https://cntizi1.com/images/recommend.png)
 
 
 ---------
