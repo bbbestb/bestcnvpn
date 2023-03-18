@@ -1,8 +1,22 @@
-#[💚💚💚💚💚10年经验老铁测评，点击查看](https://cntizi1.com/)
+#[💚💚💚💚💚10年经验老铁测评，点击查看](https://cntizi1.com/?fromdesc1)
 
-#[⭐⭐⭐⭐⭐点击查看最新推荐的VPN梯子](https://cntizi1.com/)
+#[⭐⭐⭐⭐⭐点击查看最新推荐的VPN梯子](https://cntizi1.com/?fromdesc2)
 
-![推荐梯子](https://cntizi1.com/images/recommend.png)
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>推荐VPN梯子</title>
+ <style>
+img{width: 80px  ;
+height: 80px
+;}
+ </style>
+</head>
+<body>
+<a href="https://cntizi1.com/?fromrecommendpng"><img src="https://cntizi1.com/images/recommend.png"> </a>
+</body>
+</html>
 
 
 ---------
