@@ -6,11 +6,6 @@
 <html>
 <head>
  <meta charset="utf-8">
- <title>推荐VPN梯子</title>
- <style>
-img{width: 80px  ;
-height: 80px
-;}
  </style>
 </head>
 <body>
