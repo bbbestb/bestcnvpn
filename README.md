@@ -19,11 +19,11 @@
 
 |  国内梯子排行   | 热门指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=bestcnvpn) |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=bestcnvpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=bestcnvpn) |
-| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=bestcnvpn) | - | - |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxian227&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxian227&data2=bestcnvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian227&aff_sub2=bestcnvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=bestcnvpn) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=bestcnvpn) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=bestcnvpn) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=bestcnvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=bestcnvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=bestcnvpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=bestcnvpn) | - | - |
 
 ![VPN推荐](http://5b0988e595225.cdn.sohucs.com/images/20170915/6d2c410ff0064ba8b125558e5b0b1e87.jpeg)
 
@@ -39,7 +39,7 @@
 
 如果你身在海外想访问中国大陆网站获得中国VPN服务器，请跳转到有关[翻墙回国](/into-china/)的内容。如果你不想读完整篇文章，可以参考以下我们推荐的好用的中国VPN排行，文后还有更详细的VPN测评：
 
-### 1\. [ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) —— 速度最快的VPN中国首选
+### 1\. [ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=bestcnvpn) —— 速度最快的VPN中国首选
 
 ![expressvpn logo](https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png)
 
@@ -67,7 +67,7 @@
 
 除此之外，还能用于解锁流媒体、种子下载、隐藏真实IP地址等。以下是关于每款VPN的稳定性、客户端软件、服务器节点、性价比和安全性的详细测评，以及如何下载、安装、购买注册和使用的教程。
 
-### 1.[ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn) —— 速度最快的VPN中国首选
+### 1.[ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=bestcnvpn) —— 速度最快的VPN中国首选
 
 ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内，平时大部分时间也是使用它。稳定性是它最大的优势，经历过与防火长城十多年的攻防斗争依然坚挺好用，这要得益于它的Lightway协议。
 
@@ -89,7 +89,7 @@ ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内�
 
 使用本文提供的ExpressVPN优惠链接访问ExpressVPN官网，可以将价格降至$6.67/每月。利用好ExpressVPN的30天退款保证，如果不满意，可以联系他们的24/7客服退款，即便没有免费试用也不会造成损失。
 
-[获取ExpressVPN优惠](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=bestcnvpn)
+[获取ExpressVPN优惠](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=bestcnvpn)
 
 #### ExpressVPN使用指南
 
@@ -111,7 +111,7 @@ ExpressVPN在中国VPN用户群体中占有相当大的比重，包括我在内�
 
 * * *
 
-### 3.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=bestcnvpn) —— 便宜性价比高的VPN
+### 3.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=bestcnvpn) —— 便宜性价比高的VPN
 
 PureVPN官网和APP客户端都提供全中文支持，这点对中国用户也比较友好。凭借它曾今在香港混迹的经历，使得PureVPN对于防火长城有着独到的解决方案。
 
@@ -133,7 +133,7 @@ PureVPN官网和APP客户端都提供全中文支持，这点对中国用户也�
 
 由于支付宝(AliPay)对于VPN业务的审查，目前几乎所有VPN都无法使用支付宝付款。推荐使用Visa信用卡、银联信用卡、银联储蓄卡和PayPal等对中国用户友好的支付方式。
 
-[获取PureVPN优惠](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=bestcnvpn)
+[获取PureVPN优惠](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=bestcnvpn)
 
 #### PureVPN使用指南
 
@@ -152,7 +152,7 @@ PureVPN官网和APP客户端都提供全中文支持，这点对中国用户也�
 
 * * *
 
-### 4.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=bestcnvpn) —— 不限设备数量的VPN
+### 4.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=bestcnvpn) —— 不限设备数量的VPN
 
 Surfshark拥有No Borders模式，故名思意就是可以在任何国家使用，在中国VPN表现相当不错。不限设备数量是Surfshark值得推荐的VPN特色，因此你可以和家人朋友共享Surfshark账号。
 
@@ -172,7 +172,7 @@ Surfshark价格一直都很便宜，平时价格一般在$2.49/月，黑五优�
 
 多花$1.49可以获得Surfshark One功能，它提供了病毒扫描、数据泄露提醒和私人搜索引擎等安全性，当然并不推荐所有VPN用户选择。30天退款保证和7天/24小时全天候金牌客服团队也是标配。
 
-[获取Surfshark优惠](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=bestcnvpn)
+[获取Surfshark优惠](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=bestcnvpn)
 
 #### Surfshark使用指南
 
